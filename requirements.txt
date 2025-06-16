@@ -1,0 +1,9 @@
+duckduckgo_search==8.0.4
+langchain==0.3.25
+langchain-community==0.3.25
+langchain-core==0.3.65
+langchain-openai==0.3.23
+langgraph===0.4.8 
+newsapi-python==0.2.7
+tenacity==9.1.2
+python-dotenv==1.1.0
